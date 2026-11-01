@@ -1,0 +1,5 @@
+# Production C2SP tlog-checkpoint / tlog-witness Verifiers (Active at https://log.hivemindax.com/checkpoint)
+log.hivemindax.com/2026+9a60a76c+AUEXcDkXZ/RzLu8DxwHPhkOKXj/uNzGSGE98UVrwiuK6
+witness-0.log.hivemindax.com+b4b89f45+BN2f1OfZtgTMM02f1LMm82OcSR2Wqkt5eAv2sF0AE5WF
+witness-1.log.hivemindax.com+61c2c21e+BGLdnyGcqm2Z+WadWUZyu2t0d/S8VsTfviQ5j5BLhdyY
+witness-2.log.hivemindax.com+81715ad1+BFOXfu3OgSjOeMDCXcCVI8akmmFV5+TxyW7lrv56tvAJ
