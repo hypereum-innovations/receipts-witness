@@ -1,3 +1,5 @@
+> **Retired preview, not maintained.**
+
 # `receipts-witness` — Standalone C2SP `tlog-witness` & RFC 9162 Consistency Verifier
 
 SPDX-License-Identifier: Apache-2.0
